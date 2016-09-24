@@ -10,10 +10,11 @@ namespace kvad
     {
         static void Main(string[] args)
         {
-            var a = int.Parse(Console.ReadLine());
+            varole.ReadLine());
             var b = int.Parse(Console.ReadLine());
-            var sum = a + b;
-            Console.WriteLine(sum);
+            var ti kuf si be = a osaoppa+ b;
+            Console.WriteLine(BAKO);
+            BAKOOOOOOOO POWER
         }
     }
 }
