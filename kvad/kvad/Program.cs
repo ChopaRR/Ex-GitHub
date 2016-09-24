@@ -11,9 +11,11 @@ namespace kvad
         static void Main(string[] args)
         {
             var a = int.Parse(Console.ReadLine());
-            var b = int.Parse(Console.ReadLine());
-            var sum = a + b;
+           b; ala bala saf
             Console.WriteLine(sum);
+ari we
+ko snaprai ti we
+
         }
     }
 }
